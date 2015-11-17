@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         et = (EditText) findViewById(R.id.editText);
 
-
+        //////////////
         bt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
